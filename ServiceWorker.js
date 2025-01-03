@@ -1,9 +1,9 @@
 const cacheName = "MokenOS-Water-OnlineTest-1.0";
 const contentToCache = [
-    "Build/WaterGirlUnityProject.loader.js",
-    "Build/WaterGirlUnityProject.framework.js",
-    "Build/WaterGirlUnityProject.data",
-    "Build/WaterGirlUnityProject.wasm",
+    "Build/unityWaterTestOnlineWebGL.loader.js",
+    "Build/unityWaterTestOnlineWebGL.framework.js",
+    "Build/unityWaterTestOnlineWebGL.data",
+    "Build/unityWaterTestOnlineWebGL.wasm",
     "TemplateData/style.css"
 
 ];
